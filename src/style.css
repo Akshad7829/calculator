@@ -1,0 +1,21 @@
+.style{
+  height: 28rem;
+  width: 25rem;
+  margin-left:35rem;
+}
+.footer{
+  margin-left: 5rem;
+  margin-top: 10rem;
+}
+
+@media only screen and (max-device-width: 480px) {
+  .style{
+    height: 35rem;
+    width: 25rem;
+    margin-left:0rem;
+  }
+  .footer{
+    margin-left: 3rem;
+    margin-top: 3rem;
+  }
+}
